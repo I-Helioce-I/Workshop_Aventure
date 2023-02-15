@@ -76,4 +76,5 @@ DerivedDataCache/*
 
 # Ajout Leezak 15/02/2023
 # Ignore the Content/_ExternalActors_
+*/_ExternalActors_/*
 Content/_ExternalActors_/*
